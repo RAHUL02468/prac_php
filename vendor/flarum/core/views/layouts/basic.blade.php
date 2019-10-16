@@ -101,6 +101,7 @@
 
   <body>
     <div class="container">
+<h1> Hello testing </h1>
       @yield('content')
     </div>
   </body>
